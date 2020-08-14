@@ -1,7 +1,7 @@
 # Polinema, Teknik Informatika Tahun Ajaran 2018 / 2019
 Kurikulum Tahun 2018  
 
-## Tahun Pertama [Done]
+## Tahun Pertama ✔
 1. Semester 1
     - **Praktikum**
         1. Aplikasi Komputer Perkantoran - RTI181004
@@ -32,7 +32,7 @@ Kurikulum Tahun 2018
         1. Basis Data - RTI182007
         1. Algoritma dan Struktur Data - RTI182009
 
-## Tahun Kedua [Current]
+## Tahun Kedua ✔
 1. Semester 3
     - **Praktikum**  
         1. Kecerdasan Buatan - RTI183003
@@ -59,8 +59,8 @@ Kurikulum Tahun 2018
         1. Sistem Informasi - RTI184001
         1. Manajemen Proyek - RTI184003
 
-## Tahun Ketiga
-1. Semester 5
+## Tahun Ketiga 🧐
+1. Semester 5 [Current]
     - **Praktikum**
         1. Proyek II - RTI185002
         1. Pemrogrmaan Mobile - RTI185003
