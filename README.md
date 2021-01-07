@@ -2,113 +2,113 @@
 Kurikulum Tahun 2018  
 
 ## Tahun Pertama ✔
-1. Semester 1
-    - **Praktikum**
-        1. Aplikasi Komputer Perkantoran - RTI181004
-        1. Praktikum Dasar Pemrograman - RTI181010
+### Semester 1
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI181002 | Pancasila | Teori | 2 |
+| RTI181003 | Ilmu Komunikasi dan Organisasi | Teori | 2 |
+| RTI181004 | Aplikasi Komputer Perkantoran | Praktik | 2 |
+| RTI181005 | Bahasa Inggris I | Teori | 2 |
+| RTI181006 | Konsep Teknologi Informasi | Teori | 2 |
+| RTI181007 | Matematika Diskrit | Teori | 2 |
+| RTI181008 | Keselamatan dan Kesehatan Kerja | Teori | 2 |
+| RTI181009 | Dasar Pemrograman | Teori | 2 |
+| RTI181010 | Praktikum Dasar Pemrograman | Praktik | 2 |
+| RTI182002 | Teknik Dokumentasi | Teori | 2 |
 
-    - **Teori**
-        1. Teknik Dokumentasi - RTI182002
-        1. Pancasila - RTI181002
-        1. Ilmu Komunikasi dan Organisasi - RTI181003
-        1. Bahasa Inggris I - RTI181005
-        1. Konsep Teknologi Informasi - RTI181006
-        1. Matematika Diskrit - RTI181007
-        1. Keselamatan dan Kesehatan Kerja - RTI181008
-        1. Dasar Pemrograman - RTI181009
-
-1. Semester 2
-    - **Praktikum**
-        1. Praktikum Basis Data - RTI182008
-        1. Praktikum Algoritma dan Struktur Data - RTI182010
-
-    - **Teori**
-        1. Agama - RTI182001
-        1. Kewarganegaraan - RTI181001
-        1. Bahasa Inggris II - RTI182003
-        1. Sistem Operasi - RTI182004
-        1. Rekayasa Perangkat Lunak - RTI182005
-        1. Aljabar Linear - RTI182006
-        1. Basis Data - RTI182007
-        1. Algoritma dan Struktur Data - RTI182009
+### Semester 2
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI181001 | Kewarganegaraan | Teori | 2 |
+| RTI182001 | Agama | Teori | 2 |
+| RTI182003 | Bahasa Inggris II | Teori | 2 |
+| RTI182004 | Sistem Operasi | Teori | 2 |
+| RTI182005 | Rekayasa Perangkat Lunak | Teori | 2 |
+| RTI182006 | Aljabar Linear | Teori | 2 |
+| RTI182007 | Basis Data | Teori | 2 |
+| RTI182008 | Praktikum Basis Data | Praktik | 2 |
+| RTI182009 | Algoritma dan Struktur Data | Teori | 2 |
+| RTI182010 | Praktikum Algoritma dan Struktur Data | Praktik | 3 |
 
 ## Tahun Kedua ✔
-1. Semester 3
-    - **Praktikum**  
-        1. Kecerdasan Buatan - RTI183003
-        1. Desain & Pemrograman Web - RTI183004
-        1. Basis Data Lanjut - RTI183005
-        1. Praktikum Jaringan Komputer - RTI183007
-        1. Praktikum Pemrograman Berbasis Objek - RTI183009
+### Semester 3
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI183001 | Desain Antarmuka | Teori | 2 |
+| RTI183002 | Statistik Komputasi | Teori | 2 |
+| RTI183003 | Kecerdasan Buatan | Praktik | 2 |
+| RTI183004 | Desain & Pemrograman Web | Praktik | 2 |
+| RTI183005 | Basis Data Lanjut | Praktik | 3 |
+| RTI183006 | Jaringan Komputer | Teori | 2 |
+| RTI183007 | Praktikum Jaringan Komputer | Praktik | 2 |
+| RTI183008 | Pemrograman Berbasis Objek | Teori | 2 |
+| RTI183009 | Praktikum Pemrograman Berbasis Objek | Praktik | 2 |
 
-    - **Teori**
-        1. Desain Antarmuka - RTI183001
-        1. Statistik Komputasi - RTI183002
-        1. Jaringan Komputer - RTI183006
-        1. Pemrograman Berbasis Objek - RTI183008
-
-1. Semester 4
-    - **Praktikum**
-        1. Analisis dan Desain Berorientasi Objek - RTI184002
-        1. Proyek I - RTI184004
-        1. Komputasi Kognitif - RTI184005
-        1. Pemrograman Web Lanjut - RTI184006
-        1. Sistem Manajemen Basis Data - RTI184007
-
-    - **Teori**
-        1. Sistem Informasi - RTI184001
-        1. Manajemen Proyek - RTI184003
+### Semester 4
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI184001 | Sistem Informasi | Teori | 2 |
+| RTI184002 | Analisis dan Desain Berorientasi Objek | Praktik | 3 |
+| RTI184003 | Manajemen Proyek  | Teori | 2 |
+| RTI184004 | Proyek I | Praktik | 3 |
+| RTI184005 | Komputasi Kognitif | Praktik | 2 |
+| RTI184006 | Pemrograman Web Lanjut | Praktik | 3 |
+| RTI184007 | Sistem Manajemen Basis Data | Praktik | 3 |
 
 ## Tahun Ketiga 🧐
-1. Semester 5 [Current]
-    - **Praktikum**
-        1. Proyek II - RTI185002
-        1. Pemrogrmaan Mobile - RTI185003
-        1. Data Warehouse - RTI185004
-        1. Pemrograman Jaringan - RTI185006
+### Semester 5 [Current ⌚]
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI185001 | E-Business | Teori | 2 |
+| RTI185002 | Proyek II | Praktik | 2 |
+| RTI185003 | Pemrograman Mobile | Praktik | 2 |
+| RTI185004 | Data Warehouse | Praktik | 2 |
+| RTI185005 | Pengujian Perangkat Lunak | Teori | 2 |
+| RTI185006 | Pemrograman Jaringan | Praktik | 2 |
 
-    - **Teori**
-        1. E-Business - RTI185001
-        1. Pengujian Perangkat Lunak - RTI185005
-
-1. Semester 6
-    - **Praktikum**
-        1. Sistem Pendukung Keputusan - RTI186002
-        1. Teknologi Data - RTI186003
-        1. Internet Of Things - RTI186005
-        1. Pengolahan Citra dan Visi Komputer - RTI186006
-        1. Pemrograman Berbasis Framework - RTI186007
-
-    - **Teori**
-        1. Digital Enterpreneurship - RTI186001
-        1. Komputasi Multimedia - RTI186004
+### Semester 6
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI186001 | Digital Enterpreneurship | Teori | ? |
+| RTI186002 | Sistem Pendukung Keputusan | Praktik | ? |
+| RTI186003 | Teknologi Data | Praktik | ? |
+| RTI186004 | Komputasi Multimedia | Teori | ? |
+| RTI186005 | Internet Of Things | Praktik | ? |
+| RTI186006 | Pengolahan Citra dan Visi Komputer | Praktik | ? |
+| RTI186007 | Pemrograman Berbasis Framework | Praktik | ? |
 
 ## Tahun Keempat
-1. Semester 7
-    - **Praktikum**
-        1. Proyek III - RTI187002
-        1. Proposal Skripsi - RTI187003
-        1. Sistem Terdistribusi - RTI187004
-        1. Pemrograman Game - RTI187006
+### Semester 7
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI187001 | Kapita Selekta | Teori | ? |
+| RTI187002 | Proyek III | Praktik | ? |
+| RTI187003 | Proposal Skripsi | Praktik | ? |
+| RTI187004 | Sistem Terdistribusi | Praktik | ? |
+| RTI187005 | Metodologi Penelitian | Teori | ? |
+| RTI187006 | Pemrograman Game | Praktik | ? |
 
-    - **Teori**
-        1. Kapita Selekta - RTI187001
-        1. Metodologi Penelitian - RTI187005
-
-1. Semester 8
-    - **Praktikum**
-        1. Praktek Kerja Lapangan - RTI188003
-        1. Skripsi - RTI188004
-
-    - **Teori**
-        1. Bahasa Inggris Persiapan Kerja - RTI188001
-        1. Etika Profesi Bidang TI - RTI188002
+### Semester 8
+  
+| Kode | Nama Matkul | Jenis | SKS  |
+| --- | --- | --- | --- |
+| RTI188001 | Bahasa Inggris Persiapan Kerja | Teori | ? |
+| RTI188002 | Etika Profesi Bidang TI | Teori | ? |
+| RTI188003 | Praktek Kerja Lapangan | Praktik | ? |
+| RTI188004 | Skripsi | Praktik | ? |
   
 ## Total Jam / SKS per minggu
-- SKS: 144
-    - Teori: 60
-    - Praktek: 84
+- SKS: ??
+    - Teori: ??
+    - Praktek: ??
   
-- Jam: 304 jam
-    - Teori: 96 jam
-    - Praktek: 208 jam
+- Jam: ?? jam
+    - Teori: ?? jam
+    - Praktek: ?? jam
