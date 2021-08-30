@@ -68,7 +68,7 @@ ___
 | RTI185005 | Pengujian Perangkat Lunak | Theory | 2 |
 | RTI185006 | Pemrograman Jaringan | Practice | 3 |
 ___
-### Semester 6 [Current ⌚]
+### Semester 6 
 | Code | Course Name | Type | SKS / Credit |
 | --- | --- | --- | --- |
 | N/A | Mobile Programming (Android) Learning Path | Scholarship | 19 |
@@ -85,23 +85,26 @@ ___
 ___
 <center><h2>4rd Year </h2></center>
 
-### Semester 7
+### Semester 7 [Current ⌚]
+| Code | Course Name | Type | SKS / Credit |
+| --- | --- | --- | --- |
+| N/A | Pengembang Aplikasi Android dan Multi-Platform | Scholarship | 12 |
+| RTI187001 | Magang Industri (2 bulan) | Practice | 8 |
+#### Skipped ⏩ 
 | Code | Course Name | Type | SKS / Credit  |
 | --- | --- | --- | --- |
-| RTI187001 | Kapita Selekta | Theory | N/A |
-| RTI187002 | Proyek III | Practice | N/A |
-| RTI187003 | Proposal Skripsi | Practice | N/A |
-| RTI187004 | Sistem Terdistribusi | Practice | N/A |
-| RTI187005 | Metodologi Penelitian | Theory | N/A |
-| RTI187006 | Pemrograman Game | Practice | N/A |
+| RTI187003 | Proyek III | Practice | 6 |
+| RTI187004 | Manajemen Proyek IT | Theory | 2 |
+| RTI187005 | Metodologi Penelitian | Theory | 2 |
+| RTI187005 | Pengembangan Karir | Theory | 2 |
 ___
 ### Semester 8
 | Code | Course Name | Type | SKS / Credit  |
 | --- | --- | --- | --- |
-| RTI188001 | Bahasa Inggris Persiapan Kerja | Theory | N/A |
-| RTI188002 | Etika Profesi Bidang TI | Theory | N/A |
-| RTI188003 | Praktek Kerja Lapangan | Practice | N/A |
-| RTI188004 | Skripsi | Practice | N/A |
+| RTI188001 | Bahasa Inggris Persiapan Kerja | Theory | 2 |
+| RTI188002 | Bahasa Indonesia | Theory | 2 |
+| RTI188003 | Magang Industri 3 | Practice | 10 |
+| RTI188004 | Skripsi | Practice | 8 |
 ___  
 ## Total Credits
 - SKS / Credit: 116 (Current)

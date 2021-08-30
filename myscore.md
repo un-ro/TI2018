@@ -79,7 +79,7 @@ ___
 | RTI185006 | Pemrograman Jaringan | Practice | 3 | A |
 #### Semester Score: 3.85
 ___
-### Semester 6 [Current ⌚]
+### Semester 6 
 | Code | Course Name | Type | SKS / Credit | Score |
 | --- | --- | --- | --- | --- |
 | N/A | Mobile Programming (Android) Learning Path | Scholarship | 19 | N / A |
@@ -93,13 +93,13 @@ ___
 | RTI186005 | Internet Of Things | Practice | 3 | N/A |
 | RTI186006 | Pengolahan Citra dan Visi Komputer | Practice | 3 | N/A |
 | RTI186007 | Pemrograman Berbasis Framework | Practice | 3 | N/A |
-#### Semester Score: N/A
+#### Semester Score: 3.92
 
-#### Current GPA: N/A
+#### Current GPA: 3.74
 ___
 <center><h2> 4th Year </h2></center>
 
-### Semester 7
+### Semester 7 [Current ⌚]
   
 | Code | Course Name | Type | SKS / Credit | Score |
 | --- | --- | --- | --- | --- |
